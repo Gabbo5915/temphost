@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Sushi.xsl"?>
+<catalog>
+  <cd>
+    <title>Sushi 1</title>
+    <imagelink>sushi_01.png</imagelink>
+    <price>$10.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 2</title>
+    <imagelink>sushi_02.png</imagelink>
+    <price>$11.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 3</title>
+    <imagelink>sushi_03.png</imagelink>
+    <price>$12.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 4</title>
+    <imagelink>sushi_04.png</imagelink>
+    <price>$13.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 5</title>
+    <imagelink>sushi_05.png</imagelink>
+    <price>$14.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 6</title>
+    <imagelink>sushi_06.png</imagelink>
+    <price>$15.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 7</title>
+    <imagelink>sushi_07.png</imagelink>
+    <price>$16.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 8</title>
+    <imagelink>sushi_08.png</imagelink>
+    <price>$17.90</price>
+  </cd>
+  <cd>
+    <title>Sushi 9</title>
+    <imagelink>sushi_09.png</imagelink>
+    <price>$18.90</price>
+  </cd>
+</catalog>
+
